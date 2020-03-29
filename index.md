@@ -5,7 +5,7 @@ subtitle: Robotics - Machine Learning - Mechanical Enginner
 use-site-title: true
 ---
 
-![Profilepicture](img/prof_pic_bryan.jpg)
+![Profilepicture](img/prof_pic_bryan.jpg =100x100)
 
 <!--img src="/img/logo.png" title="RECON logo" alt="RECON logo" /-->
 
