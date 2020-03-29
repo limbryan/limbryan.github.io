@@ -17,6 +17,6 @@ I decided to approach this in a very simple and starightforward matter, just wit
 The logistic model is validated and known to be a very simple first pass for a model of an epidemic. The figure below shows how this looks like. As you can imagine, there are many flaws and unaccounted uncertainties and situations in using a logistic model so the disclaimer fr the predictions here is obvious. DISCLAIMER: I am not a epidemiologist or even close to being an expert in mathematical modelling. 
 
 Note: Updated as of 29/3/2020
-![](covid19malaysia_logisticmodel_280320.png)
+![](img/posts/covid19malaysia_logisticmodel_280320.png)
 
 Of course, this is definitely not the end of it in Malaysia. With the rest of the world sturggling to contain this virus, there is bound tobe imported cases and we risk the arrival of another outbreak if policies and regulations are not setup after the MCO or even when we have the first day with no new cases. 
