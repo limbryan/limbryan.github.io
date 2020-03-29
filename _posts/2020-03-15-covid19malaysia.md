@@ -1,6 +1,6 @@
 ---
-title: Trying to model Covid-19
-subtitle: Logistic regression modelling and predicting the data in Malaysia
+title: Trying to model the spread Covid-19
+subtitle: Logistic modelling and prediction of Covid-19 based on Malaysian data
 bigimg: /img/banners/big_epi_image.jpg
 ---
 
