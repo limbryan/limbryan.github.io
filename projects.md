@@ -6,13 +6,13 @@ recon-list:
   - name: IDbot
     desc: 6-DoF robotic platform (3rd Year Design, Make and Test Project)
     github: https://github.com/limbryan/
-    url: 
+    url: https://www.youtube.com/watch?v=nWTzkd-DQiQ
     website: 
     img: /img/projects/purple.png
   - name: Autonomous Rover
     desc: 
-    github:
-    url: 
+    github: https://github.com/limbryan/
+    url: https://www.youtube.com/watch?v=bxo3q0mNtYE
     img: https://github.com/reconhub/outbreaks/raw/master/logo/logo.png
   - name: 
     desc: 
