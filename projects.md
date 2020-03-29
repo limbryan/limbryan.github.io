@@ -8,24 +8,12 @@ recon-list:
     github: https://github.com/limbryan/
     url: 
     website: 
-    img: https://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
+    img: /img/projects/purple.png
   - name: Autonomous Rover
     desc: 
-    github: https://github.com/annecori/EpiEstim
-    url: https://github.com/annecori/EpiEstim
-    img: /img/projects/purple.png
-  - name: 
-    desc: 
-    github: 
+    github:
     url: 
-    website: 
     img: https://github.com/reconhub/outbreaks/raw/master/logo/logo.png
-  - name: 
-    desc: 
-    github: 
-    url: 
-    website: 
-    img: /img/projects/purple.png
   - name: 
     desc: 
     github: 
@@ -44,13 +32,19 @@ upcoming-list:
     github: 
     url: 
     website: 
-    img: /img/projects/purple.png
+    img: https://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
   - name: 
     desc: 
     github: 
     url: 
     website: 
     img: /img/projects/orange.png
+  - name: 
+    desc: 
+    github: 
+    url: 
+    website: 
+    img: /img/projects/purple.png
   - name: 
     desc: 
     github: 
