@@ -2,7 +2,6 @@
 layout: page
 title: Bryan Lim
 subtitle: Robotics - Machine Learning - Mechanical Enginner
-use-site-title: true
 ---
 
 <!--img src="/img/logo.png" title="RECON logo" alt="RECON logo" /-->
