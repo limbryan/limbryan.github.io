@@ -40,7 +40,7 @@ share-links-active:
   linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "reconhub-github-io"
+#disqus: "reconhub-github-io"
 
 # Google Analytics ID
 google_analytics: "UA-83713279-1"
@@ -64,8 +64,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      #comments: true  # add comments to all blog posts
+      #social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
