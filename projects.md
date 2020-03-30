@@ -28,9 +28,9 @@ recon-list:
     website: 
     img: /img/projects/purple.png
 upcoming-list:
-  - name: 
-    desc: 
-    github: 
+  - name: Sudoku Solver 
+    desc: Sudoku solver using python 
+    github: https://github.com/limbryan/
     url: 
     website: 
     img: https://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
