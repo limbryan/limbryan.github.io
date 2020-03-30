@@ -1,6 +1,7 @@
 <head>
   <meta name="google-site-verification" content="lsJelNBSde2llAR8fVnJUUL3qxlRUyUxp7jiQk7ywVw" />
-<\head>
+</head>
+
 ---
 layout: page
 title: Bryan Lim
