@@ -1,9 +1,12 @@
+<head>
+  <meta name="google-site-verification" content="lsJelNBSde2llAR8fVnJUUL3qxlRUyUxp7jiQk7ywVw" />
+<\head>
 ---
 layout: page
 title: Bryan Lim
 subtitle: Robotics - Machine Learning - Mechanical Enginner
 ---
-<meta name="google-site-verification" content="lsJelNBSde2llAR8fVnJUUL3qxlRUyUxp7jiQk7ywVw" />
+
 
 <!--img src="/img/logo.png" title="RECON logo" alt="RECON logo" /-->
 
