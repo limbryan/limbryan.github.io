@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bryan Lim
-subtitle: Robotics - Machine Learning - Mechanical Enginner
+subtitle: Robotics - Machine Learning - Mechanical Engineer
 ---
 
 
