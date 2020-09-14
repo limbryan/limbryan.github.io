@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Bryan Lim
-subtitle: Robotics - Machine Learning - Mechanical Engineer
+subtitle: Machine Learning - Robotics - Mechanical Engineer
 ---
 
 
 <!--img src="/img/logo.png" title="RECON logo" alt="RECON logo" /-->
 
-I am a MEng student from Imperial College London, currently at MIT, where I work on machine learning and robotics with Prof. Alberto Rodriguez and Prof. Sangbae Kim. 
+I am a PhD student at the [Adaptive and Intelligent Robotics Lab](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) in Imperial College London, where I work on machine learning and robotics with Dr. Antoine Cully. Previously, I completed my MEng at MIT advised by Prof. Alberto Rodriguez and Prof. Sangbae Kim. 
 
 [Email](bryanlwt@mit.edu) / [Linkedin](https://www.linkedin.com/in/bryan-lim-555065179/) / [CV](/cv_bryan.pdf)
