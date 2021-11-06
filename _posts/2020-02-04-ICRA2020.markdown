@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Vision aided dynamic exploration of unstructured terrain with a small-scale quadruped robot"
+date:   2020-06-04 22:21:59 +00:00
+image: /images/jcdl2019.png
+categories: research
+author: "Bryan Lim"
+authors: "D Kim, D Carballo, J Di Carlo, B Katz, G Bledt, Bryan Lim, S Kim"
+venue: "ICRA"
+paper: https://ieeexplore.ieee.org/document/9196777
+video: https://www.youtube.com/watch?v=Tv7Vd-gF11s
+---
+A bibliometric/scientometric project. 
