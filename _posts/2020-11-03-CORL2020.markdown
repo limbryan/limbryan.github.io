@@ -5,7 +5,7 @@ date:   2020-06-04 22:21:59 +00:00
 image: /images/jcdl2019.png
 categories: research
 author: "Bryan Lim"
-authors: "M Bauza, E Valls, B Lim, T Sechopoulos, A Rodriguez"
+authors: "M Bauza, E Valls, Bryan Lim, T Sechopoulos, A Rodriguez"
 venue: "CoRL"
 arxiv: https://arxiv.org/pdf/2012.05205
 video: https://www.youtube.com/watch?v=OF8HbbGHnsM
