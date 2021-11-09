@@ -2,7 +2,7 @@
 layout: post
 title:  "Tactile object pose estimation from the first touch with geometric contact rendering"
 date:   2020-06-04 22:21:59 +00:00
-image: /images/jcdl2019.png
+image: /images/CoRL2020.png
 categories: research
 author: "Bryan Lim"
 authors: "M Bauza, E Valls, Bryan Lim, T Sechopoulos, A Rodriguez"
