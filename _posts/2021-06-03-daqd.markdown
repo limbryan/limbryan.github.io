@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamics-Aware Quality-Diversity for Efficient Learning of Skill Repertoires"
 date:   2021-06-04 22:21:59 +00:00
-image: /images/daqd-skills.gif
+image: /images/daqd-skills.png
 categories: research
 author: "Bryan Lim"
 authors: "Bryan Lim, Luca Grillotti, Lorenzo Bernasconi, Antoine Cully"
@@ -11,4 +11,4 @@ projectpage: https://sites.google.com/view/da-qd
 arxiv: https://arxiv.org/abs/2109.08522
 code: https://github.com/adaptive-intelligent-robotics/Dynamics-Aware_Quality-Diversity
 ---
-A bibliometric/scientometric project.
+A 
