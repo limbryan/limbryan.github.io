@@ -9,5 +9,6 @@ authors: "M Bauza, E Valls, Bryan Lim, T Sechopoulos, A Rodriguez"
 venue: "CoRL"
 arxiv: https://arxiv.org/pdf/2012.05205
 video: https://www.youtube.com/watch?v=OF8HbbGHnsM
+projectpage: https://mcube.mit.edu/research/tactile_loc_first_touch.html
 ---
 A bibliometric/scientometric
