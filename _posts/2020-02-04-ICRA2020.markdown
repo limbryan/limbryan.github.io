@@ -10,4 +10,4 @@ venue: "ICRA"
 paper: https://ieeexplore.ieee.org/document/9196777
 video: https://www.youtube.com/watch?v=Tv7Vd-gF11s
 ---
-A bibliometric/scientometric project. 
+

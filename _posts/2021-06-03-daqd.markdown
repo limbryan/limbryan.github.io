@@ -11,4 +11,4 @@ projectpage: https://sites.google.com/view/da-qd
 arxiv: https://arxiv.org/abs/2109.08522
 code: https://github.com/adaptive-intelligent-robotics/Dynamics-Aware_Quality-Diversity
 ---
-A 
+ 

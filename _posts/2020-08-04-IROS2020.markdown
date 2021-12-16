@@ -9,5 +9,4 @@ authors: "T Dudzik, M Chignoli, G Bledt, Bryan Lim, A Miller, D Kim, S Kim"
 venue: "IROS"
 arxiv:
 paper: https://ieeexplore.ieee.org/document/9340701
----
-A bibliometric/scientometric project. 
+--- 
