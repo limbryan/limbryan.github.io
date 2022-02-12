@@ -1,0 +1,13 @@
+---
+layout: post
+title:  “Accelerated Quality-Diversity for Robotics through Massive Parallelism”
+date:   2022-02-12 22:21:59 +00:00
+image: /images/QDax_website.png
+categories: research
+author: "Bryan Lim"
+authors: "Bryan Lim, Maxime Allard, Luca Grillotti, Antoine Cully"
+venue: "Pre-print"
+arxiv: https://arxiv.org/abs/2202.01258
+code: https://github.com/adaptive-intelligent-robotics/QDax
+---
+ 
