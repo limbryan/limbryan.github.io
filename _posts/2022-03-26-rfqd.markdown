@@ -6,8 +6,6 @@ image: /images/rfqd.png
 categories: research
 author: "Bryan Lim"
 authors: "Bryan Lim*, Alexander Reichenbach*, Antoine Cully"
-venue: "GECCO 2022"
-projectpage: 
-arxiv: 
+venue: "GECCO 2022" 
 ---
  
