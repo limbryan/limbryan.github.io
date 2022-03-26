@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Learning to Walk Autonomously via Reset-Free Quality-Diversity"
+date:   2022-03-26 22:21:59 +00:00
+image: /images/rfqd.png
+categories: research
+author: "Bryan Lim"
+authors: "Bryan Lim*, Alexander Reichenbach*, Antoine Cully"
+venue: "GECCO 2022"
+projectpage: 
+arxiv: 
+---
+ 
