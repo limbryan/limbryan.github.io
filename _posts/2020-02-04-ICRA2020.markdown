@@ -6,7 +6,7 @@ image: /images/ICRA2020.gif
 categories: research
 author: "Bryan Lim"
 authors: "D Kim, D Carballo, J Di Carlo, B Katz, G Bledt, Bryan Lim, S Kim"
-venue: "ICRA"
+venue: "International Conference on Robotics and Automation (ICRA)"
 paper: https://ieeexplore.ieee.org/document/9196777
 video: https://www.youtube.com/watch?v=Tv7Vd-gF11s
 ---
