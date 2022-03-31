@@ -6,6 +6,8 @@ image: /images/rfqd.png
 categories: research
 author: "Bryan Lim"
 authors: "Bryan Lim*, Alexander Reichenbach*, Antoine Cully"
-venue: "The Genetic and Evolutionary Computation Conference (GECCO)" 
+venue: "The Genetic and Evolutionary Computation Conference (GECCO)"
+venue: "Agent Learning in Open-Endedness Workshop, ICLR"
+projectpage: https://sites.google.com/view/rf-qd/home
 ---
  
