@@ -7,7 +7,7 @@ categories: research
 author: "Bryan Lim"
 authors: "Bryan Lim, Maxime Allard, Luca Grillotti, Antoine Cully"
 venue: "The Genetic and Evolutionary Computation Conference (GECCO) - Poster"
-venue: "Agent Learning in Open-Endedness Workshop, ICLR (Spotlight)"
+venue2: "Agent Learning in Open-Endedness Workshop, ICLR (Spotlight)"
 arxiv: https://arxiv.org/abs/2202.01258
 code: https://github.com/adaptive-intelligent-robotics/QDax
 ---
