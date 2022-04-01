@@ -5,7 +5,7 @@ date:   2020-06-04 22:21:59 +00:00
 image: /images/CoRL2020.gif
 categories: research
 author: "Bryan Lim"
-authors: "M Bauza, E Valls, Bryan Lim, T Sechopoulos, A Rodriguez"
+authors: "M Bauza, E Valls, <strong>Bryan Lim</strong>, T Sechopoulos, A Rodriguez"
 venue: "Conference on Robot Learning (CoRL)"
 arxiv: https://arxiv.org/pdf/2012.05205
 video: https://www.youtube.com/watch?v=OF8HbbGHnsM

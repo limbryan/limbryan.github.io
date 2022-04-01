@@ -5,8 +5,7 @@ date:   2020-06-04 22:21:59 +00:00
 image: /images/IROS2020.png
 categories: research
 author: "Bryan Lim"
-authors: "T Dudzik, M Chignoli, G Bledt, Bryan Lim, A Miller, D Kim, S Kim"
+authors: "T Dudzik, M Chignoli, G Bledt, <strong>Bryan Lim</strong>, A Miller, D Kim, S Kim"
 venue: "International Conference on Intelligent Robots and Systems (IROS)"
-arxiv:
 paper: https://ieeexplore.ieee.org/document/9340701
 --- 
