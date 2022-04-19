@@ -9,5 +9,6 @@ authors: "<strong>Bryan Lim*</strong>, Alexander Reichenbach*, Antoine Cully"
 venue: "The Genetic and Evolutionary Computation Conference (GECCO)"
 venue2: "Agent Learning in Open-Endedness Workshop, ICLR"
 projectpage: https://sites.google.com/view/rf-qd/home
+arxiv: https://arxiv.org/abs/2204.03655
 ---
  
