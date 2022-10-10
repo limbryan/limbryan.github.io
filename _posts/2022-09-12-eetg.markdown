@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Efficient Learning of Locomotion Skills through the Discovery of Diverse Environmental Trajectory Generator Priors"
+date:   2022-09-12 22:21:59 +00:00
+image: /images/eetg.jpg
+categories: research
+author: "Bryan Lim"
+authors: "Shikha Surana*, <strong>Bryan Lim*</strong>, Antoine Cully"
+venue: ""
+---
+ 
