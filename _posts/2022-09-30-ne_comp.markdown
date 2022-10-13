@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery"
+date:   2022-09-30 22:21:59 +00:00
+image: /images/ne_comp.png
+categories: research
+author: "Bryan Lim"
+authors: "F. Chalumeau*, R. Boige*, <strong>Bryan Lim</strong>, V. Macé, M. Allard, A. Flajolet, A. Cully, T. Pierrot"
+venue: "Pre-print"
+arxiv: https://arxiv.org/abs/2210.03516
+---
+ 
