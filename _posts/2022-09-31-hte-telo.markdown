@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Online Damage Recovery for Physical Robots with Hierarchical Quality-Diversity"
+date:   2022-10-12 22:21:59 +00:00
+image: 
+categories: research
+author: "Bryan Lim"
+authors: "M. Allard, S. C. Smith, K. Chatzilygeroudis, <strong>Bryan Lim*</strong>, A. Cully"
+venue: "Pre-print"
+arxiv: https://arxiv.org/abs/2210.09918
+---
+ 

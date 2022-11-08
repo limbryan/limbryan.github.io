@@ -58,6 +58,30 @@
             </td>
           </tr>
         </table>
+        
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>News</h2>
+	      <ul>
+		<li><strong>[7/2022]</strong> We officially released QDax, an open-source library in JAX for Quality-Diversity and Population-based algorithms. Check it <a href="https://github.com/adaptive-intelligent-robotics/QDax/tree/main">out</a>! 
+		<li><strong>[3/2022]</strong> I was awarded the Imperial College Robotics Forum - Amazon PhD Prize for Outstanding Achievement in Robotics! </li>
+		<li><strong>[3/2022]</strong> Will be presenting 2 papers at the Agent Learning in Open-Endedness Workshop at ICLR 2022. We will present QDax in a spotlight talk!</li>
+                <li><strong>[3/2022]</strong> 1 paper and 1 poster accepted to GECCO 2022! Excited to be heading back to Boston!</li>
+		<li><strong>[1/2022]</strong> DA-QD accepted at ICRA 2022! My first paper since strating the PhD!</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Conference Papers</h2>
+            </td>
+          </tr>
+        </table>
+
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
@@ -110,20 +134,65 @@
         <br>
         <br>
         <br>
-	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>News</h2>
-	      <ul>
-		<li><strong>[7/2022]</strong> We officially released QDax, an open-source library in JAX for Quality-Diversity and Population-based algorithms. Check it <a href="https://github.com/adaptive-intelligent-robotics/QDax/tree/main">out</a>! 
-		<li><strong>[3/2022]</strong> I was awarded the Imperial College Robotics Forum - Amazon PhD Prize for Outstanding Achievement in Robotics! </li>
-		<li><strong>[3/2022]</strong> Will be presenting 2 papers at the Agent Learning in Open-Endedness Workshop at ICLR 2022. We will present QDax in a spotlight talk!</li>
-                <li><strong>[3/2022]</strong> 1 paper and 1 poster accepted to GECCO 2022! Excited to be heading back to Boston!</li>
-		<li><strong>[1/2022]</strong> DA-QD accepted at ICRA 2022! My first paper since strating the PhD!</li>
-              </ul>
-            </td>
-          </tr>
-        </table>
+
+  
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr>
+      <td style="padding:2.5%;width:100%;vertical-align:middle">
+        <h2>Workshop Papers</h2>
+      </td>
+    </tr>
+  </table>
+
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+    {% for post in site.posts %}
+    {% for cat in post.categories %}
+    {% if cat == 'workshop' %}
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="{{post.image}}" alt="project image" style="width:100%; max-width:100%;" />
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <h3>{{post.title}}</h3>
+        <br>
+        {{post.authors}}
+        <br>
+        <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+        <br>
+  {% if post.venue2 %}
+        <em>{{post.venue2}}</em>, {{ post.date | date: "%Y" }}
+        <br>
+  {% endif %}
+        {% if post.arxiv %}
+        (<a href="{{post.arxiv}}">arXiv</a>)
+        {% endif %}
+        {% if post.video %}
+        (<a href="{{post.video}}">video</a>)
+        {% endif %}
+        {% if post.code %}
+        (<a href="{{post.code}}">code</a>)
+        {% endif %}
+        {% if post.poster %}
+        (<a href="{{post.poster}}">poster</a>)
+        {% endif %}
+        {% if post.slides %}
+        (<a href="{{post.slides}}">slides</a>)
+        {% endif %}
+  {% if post.projectpage %}
+        (<a href="{{post.projectpage}}">project page</a>)
+        {% endif %}
+  {% if post.paper %}
+        (<a href="{{post.paper}}">paper</a>)
+        {% endif %}
+        <p></p>
+        {{ post.excerpt }}
+      </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </table>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
