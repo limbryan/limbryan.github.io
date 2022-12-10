@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Efficient Exploration using Model-Based Quality-Diversity with Gradients"
+date:   2022-10-31 22:21:59 +00:00
+image: /images/gdaqd_main_fig.png
+categories: research
+author: "Bryan Lim"
+authors: "<strong>Bryan Lim*</strong>, M.Flageat*, A. Cully"
+venue: "Pre-print"
+arxiv: https://arxiv.org/abs/2211.12610
+--- 
