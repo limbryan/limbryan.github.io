@@ -6,6 +6,6 @@ image: /images/gdaqd_main_fig.png
 categories: research
 author: "Bryan Lim"
 authors: "<strong>Bryan Lim*</strong>, M.Flageat*, A. Cully"
-venue: "Pre-print"
+venue: "Deep Reinforcement Learning Workshop, NeurIPS"
 arxiv: https://arxiv.org/abs/2211.12610
 --- 
