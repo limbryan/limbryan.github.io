@@ -6,7 +6,7 @@ image: /images/eetg.jpg
 categories: research
 author: "Bryan Lim"
 authors: "Shikha Surana*, <strong>Bryan Lim*</strong>, Antoine Cully"
-venue: "Pre-print"
+venue: "International Conference on Robotics and Automation (ICRA)"
 arxiv: https://arxiv.org/abs/2210.04819
 ---
  
