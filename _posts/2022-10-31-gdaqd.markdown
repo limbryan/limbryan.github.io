@@ -8,4 +8,5 @@ author: "Bryan Lim"
 authors: "<strong>Bryan Lim*</strong>, M.Flageat*, A. Cully"
 venue: "Deep Reinforcement Learning Workshop, NeurIPS"
 arxiv: https://arxiv.org/abs/2211.12610
+video: https://slideslive.com/38995042
 --- 
