@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Accelerated Quality-Diversity through Massive Parallelism"
-date:   2022-02-10 22:21:59 +00:00
+date:   2023-01-01 22:21:59 +00:00
 image: /images/QDax_website.png
 categories: research
 author: "Bryan Lim"
 authors: "<strong>Bryan Lim</strong>, Maxime Allard, Luca Grillotti, Antoine Cully"
-venue: "The Genetic and Evolutionary Computation Conference (GECCO) - Poster"
-venue2: "Agent Learning in Open-Endedness Workshop, ICLR <font color=#189441><strong>(Spotlight)</strong></font>"
+venue: Transactions on Machine Learning Research (TMLR)
+venue2: "Agent Learning in Open-Endedness Workshop, ICLR <font color=#189441><strong>(Spotlight)</strong></font>, 2022"
+venue3: "The Genetic and Evolutionary Computation Conference (GECCO) - Poster, 2022"
 arxiv: https://arxiv.org/abs/2202.01258
 code: https://github.com/adaptive-intelligent-robotics/QDax
 ---

@@ -102,7 +102,10 @@
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
 	      {% if post.venue2 %}
-              <em>{{post.venue2}}</em>, {{ post.date | date: "%Y" }}
+              <em>{{post.venue2}}</em>
+              <br>
+        {% if post.venue3 %}
+              <em>{{post.venue3}}</em> 
               <br>
 	      {% endif %}
               {% if post.arxiv %}
