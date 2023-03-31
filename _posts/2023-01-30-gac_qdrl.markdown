@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Understanding the Synergies between Quality-Diversity and Deep Reinforcement Learning"
+date:   2023-01-30 22:21:59 +00:00
+image: /images/gac_qdrl_mainfig.png
+categories: research
+author: "Bryan Lim"
+authors: "<strong>Bryan Lim*</strong>, M.Flageat*, A. Cully"
+venue: "Pre-print"
+arxiv: https://arxiv.org/abs/2303.06164
+--- 
