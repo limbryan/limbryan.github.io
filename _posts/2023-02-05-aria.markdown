@@ -5,7 +5,7 @@ date:   2023-02-05 22:21:59 +00:00
 image: /images/p_01_e_02_improvement_ant_walker.png
 categories: research
 author: "Bryan Lim"
-authors: "L.Grillotti*, M.Flageat*, <strong>Bryan Lim*</strong>, A. Cully"
+authors: "L.Grillotti*, M.Flageat*, <strong>Bryan Lim</strong>, A. Cully"
 venue: "The Genetic and Evolutionary Computation Conference (GECCO)"
 arxiv: https://arxiv.org/abs/2304.03672
 --- 
