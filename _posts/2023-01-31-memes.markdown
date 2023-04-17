@@ -8,5 +8,5 @@ author: "Bryan Lim"
 authors: "M.Flageat*, <strong>Bryan Lim*</strong>, A. Cully"
 venue: "Pre-print"
 arxiv: https://arxiv.org/abs/2303.06137
-website: https://sites.google.com/view/memes-qd/home
+projectpage: https://sites.google.com/view/memes-qd/home
 --- 
