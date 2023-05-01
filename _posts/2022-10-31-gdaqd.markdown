@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Efficient Exploration using Model-Based Quality-Diversity with Gradients"
-date:   2022-10-31 22:21:59 +00:00
+date:   2023-01-22 22:21:59 +00:00
 image: /images/gdaqd_main_fig.png
 categories: research
 author: "Bryan Lim"
 authors: "<strong>Bryan Lim*</strong>, M.Flageat*, A. Cully"
-venue: "Deep Reinforcement Learning Workshop, NeurIPS"
+venue: "Conference on Artificial Life (ALIFE)"
+venue2: "Deep Reinforcement Learning Workshop, NeurIPS, 2022"
 arxiv: https://arxiv.org/abs/2211.12610
 video: https://slideslive.com/38995042
 --- 

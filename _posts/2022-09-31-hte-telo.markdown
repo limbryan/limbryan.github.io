@@ -6,7 +6,7 @@ image: /images/hte_full_maze.png
 categories: journal
 author: "Bryan Lim"
 authors: "M. Allard, S. C. Smith, K. Chatzilygeroudis, <strong>Bryan Lim</strong>, A. Cully"
-venue: "Pre-print"
+venue: "ACM Transactions on Evolutionary Learning and Optimization (TELO)"
 arxiv: https://arxiv.org/abs/2210.09918
 ---
  
