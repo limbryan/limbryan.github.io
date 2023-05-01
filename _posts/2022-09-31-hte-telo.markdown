@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Online Damage Recovery for Physical Robots with Hierarchical Quality-Diversity"
-date:   2022-10-12 22:21:59 +00:00
+date:   2023-4-20 22:21:59 +00:00
 image: /images/hte_full_maze.png
 categories: journal
 author: "Bryan Lim"
