@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Beyond Expected Return: Accounting for Policy Reproducibility when Evaluating Reinforcement Learning Algorithms"
+date:   2023-08-05 22:21:59 +00:00
+image: /images/egg.png
+categories: research
+author: "Bryan Lim"
+authors: "M.Flageat*, <strong>Bryan Lim*</strong>, A. Cully"
+venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+--- 
