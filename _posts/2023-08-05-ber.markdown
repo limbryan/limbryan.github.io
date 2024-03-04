@@ -7,4 +7,5 @@ categories: research
 author: "Bryan Lim"
 authors: "M.Flageat*, <strong>Bryan Lim*</strong>, A. Cully"
 venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+arxiv: https://arxiv.org/abs/2312.07178
 --- 
