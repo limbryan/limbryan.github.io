@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies"
-date:   2023-02-10 22:21:59 +00:00
+date:   2024-03-10 22:21:59 +00:00
 image: /images/memes_mainfig.png
 categories: research
 author: "Bryan Lim"
 authors: "M.Flageat*, <strong>Bryan Lim*</strong>, A. Cully"
-venue: "Pre-print"
+venue: "The Genetic and Evolutionary Computation Conference (GECCO)"
 arxiv: https://arxiv.org/abs/2303.06137
 projectpage: https://sites.google.com/view/memes-qd/home
 --- 

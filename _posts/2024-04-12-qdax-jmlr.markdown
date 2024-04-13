@@ -1,0 +1,13 @@
+---
+layout: post
+title: "QDax: A Library for Quality-Diversity and Population-based Algorithms with Hardware Acceleration"
+date:   2024-4-12 22:21:59 +00:00
+image: /images/qdax-jmlr-figure.png
+categories: journal
+author: "Bryan Lim"
+authors: "Felix Chalumeau*, <strong>Bryan Lim*</strong>, Raphaël Boige, Maxime Allard, Luca Grillotti, Manon Flageat, Valentin Macé, Guillaume Richard, Arthur Flajolet, Thomas Pierrot, Antoine Cully"
+venue: "Journal of Machine Learning Research (JMLR) - MLOSS"
+paper: https://www.jmlr.org/papers/v25/23-1027.html
+code: https://github.com/adaptive-intelligent-robotics/QDax
+---
+ 
