@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies"
+title: "Enhancing MAP-Elites with Multiple Parallel Evolution Strategies"
 date:   2024-03-10 22:21:59 +00:00
 image: /images/memes_mainfig.png
 categories: research
